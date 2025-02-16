@@ -17,16 +17,16 @@ M4手拧螺母x6</p>
 </blockquote>
 <h1 id="第一步">第一步</h1>
 <p>安装air底座：将底座的两个螺丝孔对准地键的两个镶嵌着螺母的孔位，拧上M5x20十字螺丝。<br>
-<img src="https://github.com/gsrrison/Linnea_Installationtutorial/blob/master/pic/2.png" alt="输入图片说明"></p>
-<img src="https://github.com/gsrrison/Linnea_Installationtutorial/blob/master/pic/3.png" alt="输入图片说明"></p>
+<img src="https://github.com/gsrrison/Linnea_Installationtutorial/blob/master/pic/2.png" alt="x"></p>
+<img src="https://github.com/gsrrison/Linnea_Installationtutorial/blob/master/pic/3.jpg" alt="x"></p>
 <h1 id="第二步">第二步</h1>
 <p>1.安装角码:使用M4x8十字螺丝(短螺丝)进行固定，请不要拧太紧以便于调整方向。<br>
-<img src="https://img.picui.cn/free/2025/02/16/67b1cd07bc218.jpg" alt="正面"><br>
-<img src="https://img.picui.cn/free/2025/02/16/67b1cd0507566.jpg" alt="反面"></p>
+<img src="https://img.picui.cn/free/2025/02/16/67b1cd07bc218.jpg" alt="x"><br>
+<img src="https://img.picui.cn/free/2025/02/16/67b1cd0507566.jpg" alt="x"></p>
 <p>2.拧上手拧螺丝<br>
-<img src="https://img.picui.cn/free/2025/02/16/67b1cdd873a5a.jpg" alt="输入图片说明"><br>
-<img src="https://img.picui.cn/free/2025/02/16/67b1cddf6dadc.jpg" alt="输入图片说明"></p>
+<img src="https://img.picui.cn/free/2025/02/16/67b1cdd873a5a.jpg" alt="x"><br>
+<img src="https://img.picui.cn/free/2025/02/16/67b1cddf6dadc.jpg" alt="x"></p>
 <h1 id="第三步">第三步</h1>
 <p>插上air连接线<br>
-<img src="https://img.picui.cn/free/2025/02/16/67b1ce11d01eb.jpg" alt="输入图片说明"></p>
+<img src="https://img.picui.cn/free/2025/02/16/67b1ce11d01eb.jpg" alt="x"></p>
 
