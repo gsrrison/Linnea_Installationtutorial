@@ -18,7 +18,7 @@ M4手拧螺母x6</p>
 <h1 id="第一步">第一步</h1>
 <p>安装air底座：将底座的两个螺丝孔对准地键的两个镶嵌着螺母的孔位，拧上M5x20十字螺丝。<br>
 <img src="https://github.com/gsrrison/Linnea_Installationtutorial/blob/master/pic/2.png" alt="输入图片说明"></p>
-<img src="https://github.com/gsrrison/Linnea_Installationtutorial/blob/master/pic/2.png" alt="输入图片说明"></p>
+<img src="https://github.com/gsrrison/Linnea_Installationtutorial/blob/master/pic/3.png" alt="输入图片说明"></p>
 <h1 id="第二步">第二步</h1>
 <p>1.安装角码:使用M4x8十字螺丝(短螺丝)进行固定，请不要拧太紧以便于调整方向。<br>
 <img src="https://img.picui.cn/free/2025/02/16/67b1cd07bc218.jpg" alt="正面"><br>
