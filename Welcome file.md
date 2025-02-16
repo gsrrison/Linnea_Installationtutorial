@@ -22,8 +22,8 @@ M4手拧螺母x6</p>
 <img src="https://img.picui.cn/free/2025/02/16/67b1cc0359260.jpg" alt="enter image description here"></p>
 <h1 id="第二步">第二步</h1>
 <p>1.安装角码:使用M4x8十字螺丝(短螺丝)进行固定，请不要拧太紧以便于调整方向。<br>
-<img src="https://img.picui.cn/free/2025/02/16/67b1cd07bc218.jpg" alt="正面"><br>
-<img src="https://img.picui.cn/free/2025/02/16/67b1cd0507566.jpg" alt="反面"></p>
+<img src="https://img.picui.cn/free/2025/02/16/67b1cd07bc218.jpg" alt="enter image description here"><br>
+<img src="https://img.picui.cn/free/2025/02/16/67b1cd0507566.jpg" alt="enter image description here"></p>
 <p>2.拧上手拧螺丝<br>
 <img src="https://img.picui.cn/free/2025/02/16/67b1cdd873a5a.jpg" alt="输入图片说明"><br>
 <img src="https://img.picui.cn/free/2025/02/16/67b1cddf6dadc.jpg" alt="输入图片说明"></p>
