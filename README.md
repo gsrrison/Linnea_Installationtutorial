@@ -4,7 +4,7 @@
 <h1 id="linnea-手台组装教程">Linnea 手台组装教程</h1>
 <p>该教程基于Qinh的开源项目<a href="https://github.com/QHPaeek/Chunithm_Stm32">Chunithm_stm32</a><br>
 注意:不同制作者使用的螺丝亦不相同，本教程仅适配@客服小祥sakiko出售的手台。<br>
-<img src="https://github.com/gsrrison/Linnea_Installationtutorial/blob/master/pic/1739704286483.jpg></p>
+<img src="[https://github.com/gsrrison/Linnea_Installationtutorial/blob/master/pic/1739704286483.jpg](https://img.picui.cn/free/2025/02/16/67b1c8639a277.jpg)></p>
 <h1 id="配件清单">配件清单</h1>
 <blockquote>
 <p>M5x20十字螺丝 x4(用于固定地键与air底座)</p>
